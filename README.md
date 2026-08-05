@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Anas Ghifari 👋</h1>
+<h1 align="center">Hi there, I'm Anas Ghifari </h1>
 
 <h3 align="center">Aspiring Data Analyst | Jakarta, Indonesia 🇮🇩</h3>
 
@@ -80,7 +80,7 @@ Information Systems undergraduate with a strong foundation in **data programming
 - All 27 Brazilian states receive deliveries **ahead of schedule** on average
 - Credit card users spend **2.5x more** than boleto users due to installments
 
-**[View Live Dashboard →](https://public.tableau.com/shared/8YGYRXJ9N)**
+**[View Live Dashboard](https://public.tableau.com/shared/8YGYRXJ9N)**
 
 ---
 
