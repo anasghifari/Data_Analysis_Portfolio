@@ -25,6 +25,10 @@ Information Systems undergraduate with a strong foundation in **data programming
 - I believe great analysis is not just about finding patterns — it's about **telling the story behind the data**
 
 ---
+## Certifications
+
+- Associate Data Analyst by DataCamp: **[Certificate Link](https://www.datacamp.com/certificate/DAA0019918400166)**
+- The Basics of Google Cloud Compute Skill Badge: **[Certificate Link](https://www.credly.com/badges/ea525874-3654-4226-a95f-814784eaea41/linked_in_profile)**
 
 ## Tools & Technologies
 
