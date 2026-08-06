@@ -63,7 +63,7 @@ Information Systems undergraduate with a strong foundation in **data programming
 | # | Project | Domain | Tools | Links |
 |---|---------|--------|-------|-------|
 | 01 | **Brazilian E-Commerce Analytics** | E-Commerce · Logistics | SQL · Python · Tableau | [GitHub](https://github.com/Anaaaslagi/Data_Analysis_Portfolio/tree/main/Brazillian_E-Commerce) · [Dashboard](https://public.tableau.com/shared/8YGYRXJ9N) |
-| 02 | **Transjakarta Passenger Analysis** | Transportation · Public | Python · Jupyter | [GitHub](https://github.com/Anaaaslagi/ProjectA_TJ-Transjakarta_PBA2025-gasal) |
+| 02 | **Transjakarta Passenger Analysis** | Transportation · Public | Python · NLP · Sklearn · IndoBERT| [GitHub](https://github.com/Anaaaslagi/ProjectA_TJ-Transjakarta_PBA2025-gasal) |
 | 03 | **Finance Project** | Finance · FinTech | SQL · Python · Power BI | In Progress |
 
 ---
@@ -86,14 +86,6 @@ Information Systems undergraduate with a strong foundation in **data programming
 - Credit card users spend **2.5x more** than boleto users due to installments
 
 **[View Live Dashboard](https://public.tableau.com/shared/8YGYRXJ9N)**
-
----
-
-## Currently Working On
-
-- Building a **Finance & FinTech analysis project** (next portfolio piece)
-- Deepening skills in **advanced SQL** (window functions, CTEs, optimization)
-- Exploring **geospatial analysis** and **time-series forecasting**
 
 ---
 
