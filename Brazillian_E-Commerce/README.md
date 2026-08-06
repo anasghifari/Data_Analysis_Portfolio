@@ -94,10 +94,10 @@ Olist is a Brazilian marketplace that connects small businesses to major e-comme
 ```
 brazilian-ecommerce-analytics/
 │
-├── 📄 brazillian_e-commerce.sql      # All 8 SQL analysis queries
-├── 📓 brazilian_ecommerce_eda.ipynb  # Python EDA notebook (8 visualizations)
+├── brazillian_e-commerce.sql      # All 8 SQL analysis queries
+├── brazilian_ecommerce_eda.ipynb  # Python EDA notebook (8 visualizations)
 │
-├── 📂 tableau_data/                  # Exported CSVs for Tableau
+├── tableau_data/                  # Exported CSVs for Tableau
 │   ├── gmv_by_category.csv
 │   ├── monthly_revenue.csv
 │   ├── payment_behavior.csv
@@ -105,7 +105,7 @@ brazilian-ecommerce-analytics/
 │   ├── delivery_gap.csv
 │   └── top_sellers.csv
 │
-└── 📂 charts/                        # Chart exports from Python notebook
+└── charts/                        # Chart exports from Python notebook
     ├── q1_gmv_by_category.png
     ├── q2_late_delivery_vs_review.png
     ├── q3_monthly_revenue_growth.png
