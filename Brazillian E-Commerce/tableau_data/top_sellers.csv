@@ -1,0 +1,21 @@
+seller_id,seller_city,total_orders,total_revenue,avg_rating,combined_rank,label
+612170e34b97004b3ba37eae81836b4c,novo hamburgo,93,19049.52,4.45,284,#284  Novo Hamburgo
+080199a181c46c657dc5aa235411be3b,osasco,63,11677.85,4.57,279,#279  Osasco
+a5cba26a62b8b4d0145b68b841e62e7f,campo mourao,46,12301.84,4.55,274,#274  Campo Mourao
+7299e27ed73d2ad986de7f7c77d919fa,araguari,272,28870.89,4.43,268,#268  Araguari
+fa1c13f2614d7b5c4749cbc52fecda94,sumare,449,145443.95,4.36,266,#266  Sumare
+289cdb325fb7e7f891c38608bf9e0962,belo horizonte,91,11065.98,4.63,261,#261  Belo Horizonte
+fe2032dab1a61af8794248c8196565c9,campinas,222,50159.35,4.39,256,#256  Campinas
+9de4643a8dbde634fe55621059d92273,joinville,59,13452.62,4.57,242,#242  Joinville
+12b9676b00f60f3b700e83af21824c0e,montenegro,102,20191.0,4.5,240,#240  Montenegro
+b4f8921fcc4ff77b66bea6dda43dcd51,caxias do sul,16,10478.28,4.75,236,#236  Caxias Do Sul
+eeb6de78f79159600292e314a77cbd18,lages,64,34003.94,4.45,235,#235  Lages
+7901646fdd36a55f564ffaf2dbccaaf7,rio de janeiro,18,9808.1,4.86,234,#234  Rio De Janeiro
+744dac408745240a2c2528fb1b6028f3,colombo,63,16906.6,4.54,232,#232  Colombo
+6061155addc1e54b4cfb51c1c2a32ad8,campinas,21,13680.5,4.64,209,#209  Campinas
+f62d7bb4a613ec758a03342d46b580b2,vicosa,24,18550.0,4.58,200,#200  Vicosa
+c3cfdc648177fdbbbb35635a37472c53,curitiba,209,32586.92,4.5,198,#198  Curitiba
+834f3294fba9f932f56edc879193f925,araraquara,53,31932.6,4.53,181,#181  Araraquara
+edb1ef5e36e0c8cd84eb3c9b003e486d,teresopolis,124,57982.3,4.49,176,#176  Teresopolis
+ba90964cff9b9e0e6f32b23b82465f7b,guarulhos,30,34520.7,4.53,174,#174  Guarulhos
+e882b2a25a10b9c057cc49695f222c19,teresopolis,47,41299.65,4.6,117,#117  Teresopolis

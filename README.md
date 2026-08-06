@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Anas Ghifari </h1>
+<h1 align="center">Hi there, I'm Anas Ghifari Kemaputra </h1>
 
 <h3 align="center">Aspiring Data Analyst | Jakarta, Indonesia 🇮🇩</h3>
 
@@ -9,7 +9,7 @@
   <a href="https://public.tableau.com/app/profile/anas.ghifari.kemaputra">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   </a>
-  <a href="mailto:anasghifari@email.com">
+  <a href="mailto:anas123hd@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
