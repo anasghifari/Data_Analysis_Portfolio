@@ -23,6 +23,7 @@ Information Systems undergraduate with a strong foundation in **data programming
 - I specialize in **exploratory data analysis**, **business intelligence**, and **data storytelling**
 - Currently building my **data analytics portfolio** to land my first data analyst role
 - I believe great analysis is not just about finding patterns — it's about **telling the story behind the data**
+- Access my full **Resume** in **[here](https://drive.google.com/drive/folders/1LYBYqhbI2nrkqFk7WX-gNAnW9Jp5ntFZ?usp=sharing)**
 
 ---
 ## Certifications
@@ -57,11 +58,11 @@ Information Systems undergraduate with a strong foundation in **data programming
 
 ---
 
-## 📂 Portfolio Projects
+## Portfolio Projects
 
 | # | Project | Domain | Tools | Links |
 |---|---------|--------|-------|-------|
-| 01 | **Brazilian E-Commerce Analytics** | E-Commerce · Logistics | SQL · Python · Tableau | [GitHub](https://github.com/Anaaaslagi/Data_Analysis_Portfolio) · [Dashboard](https://public.tableau.com/shared/8YGYRXJ9N) |
+| 01 | **Brazilian E-Commerce Analytics** | E-Commerce · Logistics | SQL · Python · Tableau | [GitHub](https://github.com/Anaaaslagi/Data_Analysis_Portfolio/tree/main/Brazillian_E-Commerce) · [Dashboard](https://public.tableau.com/shared/8YGYRXJ9N) |
 | 02 | **Transjakarta Passenger Analysis** | Transportation · Public | Python · Jupyter | [GitHub](https://github.com/Anaaaslagi/ProjectA_TJ-Transjakarta_PBA2025-gasal) |
 | 03 | **Finance Project** | Finance · FinTech | SQL · Python · Power BI | In Progress |
 
