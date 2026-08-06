@@ -118,7 +118,7 @@ brazilian-ecommerce-analytics/
 
 ---
 
-## 🗃️ Dataset
+## Dataset
 
 - **Source**: [Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - **Period**: September 2016 — October 2018
