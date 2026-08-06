@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-Public-orange?logo=tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 > **An end-to-end data analytics project analyzing 100,000+ orders from Olist, Brazil's largest e-commerce marketplace — covering product performance, logistics, customer behavior, payment trends, and seller quality.**
 
@@ -12,7 +11,7 @@
 
 ## Live Dashboard
 
-🔗 **[View Interactive Tableau Dashboard](https://public.tableau.com/shared/8YGYRXJ9N?:display_count=n&:origin=viz_share_link)**
+**[View Interactive Tableau Dashboard](https://public.tableau.com/shared/8YGYRXJ9N?:display_count=n&:origin=viz_share_link)**
 
 ---
 
@@ -36,7 +35,7 @@ Olist is a Brazilian marketplace that connects small businesses to major e-comme
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |------|---------|
